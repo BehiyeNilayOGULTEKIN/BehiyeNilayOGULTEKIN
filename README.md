@@ -1,5 +1,5 @@
 ### Hi there 👋
-It's Nilay. Developing Flutter and web apps!!
+It's Nilay. I am interested in Data Science and working for it!!
 May the wind bless your travels
 ~Venti 
 
